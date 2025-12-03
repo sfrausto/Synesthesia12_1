@@ -1,0 +1,301 @@
+Unity Editor version:    6000.0.22f1 (001fa5a8e29a)
+Branch:                  trunk
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 15.6.1 (Build 24G90)
+Darwin version:          24.6.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        24576 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/6000.0.22f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/sjfraust/Documents/GitHub/Synesthesia12_1/Synaesthasia11_26
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60589
+-job-worker-count
+3
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: /Users/sjfraust/Documents/GitHub/Synesthesia12_1/Synaesthasia11_26
+/Users/sjfraust/Documents/GitHub/Synesthesia12_1/Synaesthasia11_26
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8591007936]  Target information:
+
+Player connection [8591007936]  * "[IP] 10.25.40.98 [Port] 0 [Flags] 2 [Guid] 3011926989 [EditorId] 3011926989 [Version] 1048832 [Id] OSXEditor(0,Samuels-MacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8591007936] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8591007936] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 1.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.22f1 (001fa5a8e29a)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.0.22f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/sjfraust/Documents/GitHub/Synesthesia12_1/Synaesthasia11_26/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+ preferred device: Apple M3 (high power)
+Metal devices available: 1
+0: Apple M3 (high power)
+Using device Apple M3 (high power)
+Initializing Metal device caps: Apple M3
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/6000.0.22f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/6000.0.22f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/6000.0.22f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56226
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/6000.0.22f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.0.22f1/PlaybackEngines/VisionOSPlayer/UnityEditor.VisionOS.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.0.22f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.000829 seconds.
+- Loaded All Assemblies, in  0.239 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+objc[40226]: Class XcodeScriptingDelegate is implemented in both /Applications/Unity/Hub/Editor/6000.0.22f1/PlaybackEngines/iOSSupport/arm64/UnityEditor.iOS.Native.dylib (0x177398610) and /Applications/Unity/Hub/Editor/6000.0.22f1/PlaybackEngines/VisionOSPlayer/arm64/UnityEditor.VisionOS.Native.dylib (0x1774a0610). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for VisionOS target not found
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.337 seconds
+Domain Reload Profiling: 576ms
+	BeginReloadAssembly (79ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (103ms)
+		LoadAssemblies (80ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (100ms)
+			TypeCache.Refresh (99ms)
+				TypeCache.ScanAssembly (90ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (337ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (309ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (69ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (158ms)
+			ProcessInitializeOnLoadMethodAttributes (75ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.708 seconds
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for VisionOS target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.556 seconds
+Domain Reload Profiling: 1264ms
+	BeginReloadAssembly (373ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (282ms)
+		LoadAssemblies (225ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (90ms)
+			TypeCache.Refresh (68ms)
+				TypeCache.ScanAssembly (55ms)
+			BuildScriptInfoCaches (19ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (556ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (439ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (22ms)
+			ProcessInitializeOnLoadAttributes (308ms)
+			ProcessInitializeOnLoadMethodAttributes (94ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Launching external process: /Applications/Unity/Hub/Editor/6000.0.22f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2700 unused Assets / (136.1 KB). Loaded Objects now: 3282.
+Memory consumption went from 98.9 MB to 98.8 MB.
+Total: 8.478417 ms (FindLiveObjects: 0.314500 ms CreateObjectMapping: 0.064791 ms MarkObjects: 7.657709 ms  DeleteObjects: 0.441042 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 155016.330769 seconds.
+  path: Assets/P3_YENNA copy
+  artifactKey: Guid(daa655f81c862441a91adad042ded9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/P3_YENNA copy using Guid(daa655f81c862441a91adad042ded9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ad5e638fe7f0187229467861fd6c6295') in 0.003126583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.906272 seconds.
+  path: Assets/P3_YENNA copy/P3_Jazz/P3_Jazz.unity
+  artifactKey: Guid(da58dc804b12c46fb9b8e9a650b02fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/P3_YENNA copy/P3_Jazz/P3_Jazz.unity using Guid(da58dc804b12c46fb9b8e9a650b02fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8c16b24a0baf25d95b05ea6903ba4060') in 0.000237041 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.231114 seconds.
+  path: Assets/P3_YENNA copy/P2/grass2.blend
+  artifactKey: Guid(8dcd34ba97dc14301895a3641f6e4f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/P3_YENNA copy/P2/grass2.blend using Guid(8dcd34ba97dc14301895a3641f6e4f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69810c2082e7abb6297b80b8c0eb12dc') in 0.365923958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.144131 seconds.
+  path: Assets/P3_YENNA copy/P2/grass1.blend
+  artifactKey: Guid(68942084102694a32bc7458e3afb0ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/P3_YENNA copy/P2/grass1.blend using Guid(68942084102694a32bc7458e3afb0ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a9b022f82523f30176e9a46a886c5d01') in 0.008361042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.992150 seconds.
+  path: Assets/P3_YENNA copy/P2/aura1.blend
+  artifactKey: Guid(9b48041cf9c3541f6aa3f2dc6fa833fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/P3_YENNA copy/P2/aura1.blend using Guid(9b48041cf9c3541f6aa3f2dc6fa833fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3e7ee1d62559501e525097126fa8a861') in 0.055784458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.525649 seconds.
+  path: Assets/P3_YENNA copy/P2/aura1.fbx
+  artifactKey: Guid(ad2ce5a7497464fcca31ec245bb70c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/P3_YENNA copy/P2/aura1.fbx using Guid(ad2ce5a7497464fcca31ec245bb70c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd09fe90b497ae3c58f7806e3aafb2b84') in 0.049594208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.679676 seconds.
+  path: Assets/P3_YENNA copy/P2/aura1.png
+  artifactKey: Guid(1083827003e55443299ee8e05ec500dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/P3_YENNA copy/P2/aura1.png using Guid(1083827003e55443299ee8e05ec500dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '738d2f1df81ae7411fae42ed46071f22') in 0.015287333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.662435 seconds.
+  path: Assets/P3_YENNA copy/P2/aura3.png
+  artifactKey: Guid(57188223c50d24349aeea6880092b80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/P3_YENNA copy/P2/aura3.png using Guid(57188223c50d24349aeea6880092b80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd26f60db1e8d504243db093dc4369b92') in 0.014740292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.584196 seconds.
+  path: Assets/P3_YENNA copy/P2/aura5.png
+  artifactKey: Guid(8ad1bcc1b371440e19bb1b010ddc9911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/P3_YENNA copy/P2/aura5.png using Guid(8ad1bcc1b371440e19bb1b010ddc9911) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9d23f36203810b36119b4df59631aa78') in 0.0052995 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1033.536556 seconds.
+  path: Assets/P3_YENNA copy/P3_Country
+  artifactKey: Guid(419522ae6e3db4d38850cb05a7baf942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/P3_YENNA copy/P3_Country using Guid(419522ae6e3db4d38850cb05a7baf942) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c8afa3912ee0444f8c14fcbe5c9298d2') in 0.001429917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.159922 seconds.
+  path: Assets/P3_YENNA copy/P3_Country/GRASS.shadergraph
+  artifactKey: Guid(db675e5a3db134ec4ab520eda88d99a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/P3_YENNA copy/P3_Country/GRASS.shadergraph using Guid(db675e5a3db134ec4ab520eda88d99a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c95c8e9ad603116fb44752a59c5525c') in 0.004221625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.178692 seconds.
+  path: Assets/P3_YENNA copy/P3_Country/P3_Country.unity
+  artifactKey: Guid(1eaeaba931a4e4d58b78bf077e95d4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/P3_YENNA copy/P3_Country/P3_Country.unity using Guid(1eaeaba931a4e4d58b78bf077e95d4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ab7fb9a6d74b8505505d5c4f4ec1aabe') in 0.000745833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+

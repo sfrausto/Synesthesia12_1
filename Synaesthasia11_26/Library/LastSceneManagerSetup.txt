@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/P3_YENNA copy/P3_Jazz/P3_Jazz.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/P3_YENNA copy/P3_Country/P3_Country_LargeSize.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
